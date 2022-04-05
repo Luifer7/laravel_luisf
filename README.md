@@ -1,6 +1,7 @@
 
 Proyecto prueba tecnica laravel by: Luis Fernando Cordero Torres
-Adjunto: archivo .mp4 con presentacion y funcionamiento del proyecto y archivo sql con base de datos del mismo.
+Adjunto: archivo videopresentacion.mp4 con presentacion y funcionamiento del proyecto y archivo sql (prueba_tecnica_laravel) con base de datos del mismo.
+aguardando al despliegue en host publico..
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
