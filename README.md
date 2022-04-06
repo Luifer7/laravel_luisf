@@ -1,5 +1,5 @@
 
-Proyecto prueba tecnica laravel by: Luis Fernando Cordero Torres
+Proyecto prueba tecnica laravel by: Luis Fernando Cordero Torres <br>
 Adjunto: archivo videopresentacion.mp4 con presentacion y funcionamiento del proyecto. (Descragra en el link "View raw"  del mismo en el repositorio)
 Archivo sql (prueba_tecnica_laravel) con base de datos del mismo.
 
